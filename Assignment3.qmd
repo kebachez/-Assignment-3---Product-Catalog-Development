@@ -1,0 +1,282 @@
+---
+title: "ITP-Shopify Store - Assignment 3 - Product Catalog Development"
+author: "Kevin Bachez"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    theme: cosmo
+    code-tools: true
+editor: visual
+execute:
+  freeze: auto
+---
+
+# Introduction
+
+This report presents the product catalog created for my Shopify practice store. The store concept is inspired by CPP Farm Store and focuses on fresh, local, farm-style products that customers could purchase online. The goal of this assignment is to practice product catalog management by creating products with clear titles, descriptions, pricing, inventory information, and product organization.
+
+> A strong product catalog helps customers understand products, compare options, and make purchasing decisions.
+
+# Product List
+
+| Product                |   Price | Category       | Inventory |
+|------------------------|--------:|----------------|----------:|
+| CPP Fresh Strawberries |  \$6.99 | Fresh Produce  |        25 |
+| Farm Fresh Oranges     |  \$5.99 | Fresh Produce  |        30 |
+| Organic Hass Avocados  |  \$7.99 | Fresh Produce  |        20 |
+| Local Honey Jar        | \$10.99 | Pantry Goods   |        15 |
+| Farm Store Salsa       |  \$8.99 | Pantry Goods   |        18 |
+| Fresh Baked Apple Pie  | \$14.99 | Bakery         |        10 |
+| CPP Trail Mix          |  \$6.49 | Snacks         |        22 |
+| Farm Store Tote Bag    | \$12.99 | Merchandise    |        35 |
+| Seasonal Vegetable Box | \$24.99 | Produce Bundle |        12 |
+| Farm Store Gift Basket | \$39.99 | Gift Set       |         8 |
+
+# Product Information Evidence
+
+## Product 1 – CPP Fresh Strawberries
+
+**Description**
+
+Sweet, fresh strawberries that are perfect for snacks, smoothies, desserts, and breakfast. These strawberries provide customers with a healthy and fresh option.
+
+**Price:** \$6.99
+
+**Inventory:** 25
+
+**Category:** Fresh Produce
+
+**Tags:** strawberries, fruit, fresh
+
+**Screenshot**
+
+![](Images/Strawberries1.png)
+
+![](Images/Strawberries2.png)
+
+------------------------------------------------------------------------
+
+## Product 2 – Farm Fresh Oranges
+
+**Description**
+
+Fresh oranges that are juicy, refreshing, and ideal for healthy snacks or homemade juice.
+
+**Price:** \$5.99
+
+**Inventory:** 30
+
+**Category:** Fresh Produce
+
+**Tags:** oranges, citrus, fruit
+
+**Screenshot**
+
+![](Images/Oranges1.png)
+
+![](Images/Oranges2.png)
+
+------------------------------------------------------------------------
+
+## Product 3 – Organic Hass Avocados
+
+**Description**
+
+Creamy organic avocados that are perfect for toast, salads, sandwiches, and homemade guacamole.
+
+**Price:** \$7.99
+
+**Inventory:** 20
+
+**Category:** Fresh Produce
+
+**Tags:** avocado, organic, healthy
+
+**Screenshot**
+
+![](Images/Avocados1.png)
+
+## ![](Images/Avocados2.png)
+
+## Product 4 – Local Honey Jar
+
+**Description**
+
+Locally inspired honey that can be enjoyed with tea, toast, yogurt, or baking recipes.
+
+**Price:** \$10.99
+
+**Inventory:** 15
+
+**Category:** Pantry Goods
+
+**Tags:** honey, local, pantry
+
+**Screenshot**
+
+![](Images/Honey1.png)
+
+![](Images/Honey2.png)
+
+------------------------------------------------------------------------
+
+## Product 5 – Farm Store Salsa
+
+**Description**
+
+Fresh salsa that pairs well with chips, tacos, burritos, and many homemade meals.
+
+**Price:** \$8.99
+
+**Inventory:** 18
+
+**Category:** Pantry Goods
+
+**Tags:** salsa, pantry, snack
+
+**Screenshot**
+
+![](Images/Salsa1.png)
+
+![](Images/Salsa2.png)
+
+------------------------------------------------------------------------
+
+## Product 6 – Fresh Baked Apple Pie
+
+**Description**
+
+A freshly baked apple pie that is great for desserts, family dinners, or special occasions.
+
+**Price:** \$14.99
+
+**Inventory:** 10
+
+**Category:** Bakery
+
+**Tags:** pie, bakery, dessert
+
+**Screenshot**
+
+![](Images/Pie1.png)
+
+![](Images/Pie2.png)
+
+------------------------------------------------------------------------
+
+## Product 7 – CPP Trail Mix
+
+**Description**
+
+A convenient snack made for students, faculty, and customers looking for an easy grab-and-go option.
+
+**Price:** \$6.49
+
+**Inventory:** 22
+
+**Category:** Snacks
+
+**Tags:** trail mix, snack, student
+
+**Screenshot**
+
+![](Images/Mix1.png)
+
+![](Images/Mix2.png)
+
+------------------------------------------------------------------------
+
+## Product 8 – Farm Store Tote Bag
+
+**Description**
+
+A reusable tote bag that supports sustainability while promoting the Farm Store brand.
+
+**Price:** \$12.99
+
+**Inventory:** 35
+
+**Category:** Merchandise
+
+**Tags:** tote bag, reusable, merchandise
+
+**Screenshot**
+
+![](Images/Tote1.png)
+
+![](Images/Tote2.png)
+
+------------------------------------------------------------------------
+
+## Product 9 – Seasonal Vegetable Box
+
+**Description**
+
+A bundle of fresh seasonal vegetables selected based on current availability.
+
+**Price:** \$24.99
+
+**Inventory:** 12
+
+**Category:** Produce Bundle
+
+**Tags:** vegetables, seasonal, bundle
+
+**Screenshot**
+
+![](Images/Box1.png)
+
+![](Images/Box2.png)
+
+------------------------------------------------------------------------
+
+## Product 10 – Farm Store Gift Basket
+
+**Description**
+
+A collection of farm-inspired products packaged together as a gift for family, friends, or special occasions.
+
+**Price:** \$39.99
+
+**Inventory:** 8
+
+**Category:** Gift Set
+
+**Tags:** gift basket, bundle
+
+**Screenshot**
+
+![](Images/Basket1.png)
+
+![](Images/Basket2.png)
+
+# Product Description Quality
+
+Each product description focuses on helping customers understand what the product is, how it can be used, and why it provides value. The descriptions are written in a simple, customer-friendly style that encourages purchasing decisions rather than simply listing product features.
+
+# Assortment Strategy Reflection
+
+The assortment was designed around a farm store concept that combines fresh produce, pantry items, bakery products, snacks, merchandise, and gift products. Together, these products provide customers with a complete shopping experience while appealing to students, faculty, alumni, and local community members. The assortment balances everyday essentials with specialty products that support the overall farm store brand.
+
+# CPP Farm Store Application Reflection
+
+CPP Farm Store should present products online using high-quality images, accurate pricing, inventory information, detailed product descriptions, and organized categories. Seasonal products should be updated regularly so customers know what is currently available. A well-organized product catalog will improve the customer experience and make online shopping easier while supporting both the physical and digital store.
+
+# Appendix
+
+## GitHub Pages
+
+**GitHub Pages Website:**
+
+Paste your published GitHub Pages URL here.
+
+## GitHub Repository
+
+**GitHub Repository:**
+
+Paste your GitHub repository URL here.
