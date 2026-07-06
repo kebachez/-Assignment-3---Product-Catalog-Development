@@ -273,10 +273,10 @@ CPP Farm Store should present products online using high-quality images, accurat
 
 **GitHub Pages Website:**
 
-Paste your published GitHub Pages URL here.
+<https://kebachez.github.io/-Assignment-3---Product-Catalog-Development/>
 
 ## GitHub Repository
 
 **GitHub Repository:**
 
-Paste your GitHub repository URL here.
+<https://github.com/kebachez/-Assignment-3---Product-Catalog-Development.git>
